@@ -163,3 +163,8 @@ html {
 .SearchBar input::placeholder {
     color: #aaa;
 }
+.Owner {
+    font-size: 10px;
+    font-style: italic;
+    color: aqua;
+}
